@@ -94,11 +94,12 @@ whistle安装过程需要以下步骤（**缺一不可**）：
 w2 --help
 ```
 
-启动、停止、重启whistle的命令行命令如下：
+启动、停止、重启、控制台调试whistle的命令行命令如下：
 ```
 w2 start
 w2 stop
 w2 restart
+w2 run
 ```
 
 更新whistle只需重新安装下whistle即可，具体参见：[更新whistle帮助文档](http://wproxy.org/whistle/update.html)
